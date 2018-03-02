@@ -1,0 +1,22 @@
+/*
+* @Author: Administrator
+* @Date:   2018-01-30 11:50:40
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-02-07 16:46:10
+*/
+*{
+	margin: 0;/* body-8px */
+	text-decoration: none;
+	padding: 0;
+	font-style: normal;
+	list-style: none;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	box-sizing: border-box;
+}
+img{
+	border: 0;
+	width: 100%;
+	height: 100%;
+	display:block;
+}
+
